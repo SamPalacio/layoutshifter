@@ -1,0 +1,47 @@
+
+.container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.container_2{
+  display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.box{
+    border-radius: 20px;
+}
+.blue{
+    width: 93%;
+    margin: 10px;
+    height: 200px;
+    background-color: #8d8dfa;
+}
+
+.yellow{
+    width: 93%;
+    margin: 10px;
+    height: 200px;
+    background-color: #eadc90;
+}
+
+.green{
+    width: 93%;
+    margin: 10px;
+    height: 200px;
+    background-color: #afefa1;
+}
+
+.red{
+
+    width: 93%;
+    margin: 10px;
+    height: 200px;
+    background-color: #e38e8e;
+}

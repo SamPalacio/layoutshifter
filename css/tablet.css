@@ -1,0 +1,12 @@
+.container{
+    flex-flow: row wrap;
+    align-content: space-between;
+}
+
+.blue{
+    max-width: 200px;
+    height: 400px;
+}
+.container_2{
+    max-width: 360px;
+}

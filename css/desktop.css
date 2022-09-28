@@ -1,0 +1,18 @@
+.container{
+    flex-direction: row;
+    flex-flow: nowrap;
+
+}
+
+.blue{
+    order: 2;
+}
+.container_2{
+    order: 1;
+    width: 70%;
+    max-width: 1000px;
+}
+.red{
+    max-width: 200px;
+    height: 400px;
+}
